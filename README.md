@@ -1,62 +1,73 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# E-Store
 
-# Project Name
+This project is an online store, where the user is able to navigate, choose article with specific properties such color and size, and finaly add to their bag.
+### Built With
 
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Javascript
+- HTML and CSS
+- WEBPACK
+- NPM
+- VS CODE
 
 
-## Getting Started
+### Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+You can have a copy of this repo run on your local machine by just directly cloning it.
 
+### Live Demo
 
-To get a local copy up and running follow these simple example steps.
+Coming soon!
 
 ### Prerequisites
 
-### Setup
+- Node.js
+- npm
+- vscode(or another editer)
 
-### Install
+To get the output of our project make sure you have google Chrome, Mozila or any other browser installed.
+
+## Install 
+
+> In order to install this project please go through the following steps:
+
+1. - [ ] Open the `Terminal`
+2. - [ ] Navigate to the directory where you want to add this repository
+3. - [ ] Run `git clone https://github.com/GedeonTS/E-store-project.git`
+4. - [ ] Run `npm install` to install the necessary modules
+5. - [ ] Run `npm start`
+
+
+### Run the following commands to run linter tests
+
+WebHint
+```bash
+$ npx hint .
+```
+
+StyleLint
+```bash
+$ npx stylelint "**/*.{css,scss}"
+```
+
+ESLint
+```bash
+$ npx eslint .
+```
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+> Open the index.html file with your code editor of your choice and/or a browser of your choice.
+```bash
+Open the project using a live saver extension that can be found into your code editor.
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Ushindi Gedeon**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@GedeonTS](https://github.com/GedeonTS)
+- Twitter: [@Gedeon191](https://twitter.com/Gedeon191)
+- LinkedIn: [Ushindi Gedeon](https://linkedin.com/in/ushindi-gedeon)
 
 ## Show your support
 
@@ -64,10 +75,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original Idea by (ScandiWeb)[https://scandiweb.com/].
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
