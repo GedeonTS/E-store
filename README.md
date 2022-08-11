@@ -4,8 +4,8 @@ This project is an online store, where the user is able to navigate, choose arti
 ### Built With
 
 - Javascript
-- HTML and CSS
-- WEBPACK
+- React
+- Redux
 - NPM
 - VS CODE
 
@@ -25,6 +25,8 @@ Coming soon!
 - vscode(or another editer)
 
 To get the output of our project make sure you have google Chrome, Mozila or any other browser installed.
+
+- project endpoint [Here](https://github.com/scandiweb/junior-react-endpoint)
 
 ## Install 
 
@@ -75,7 +77,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Original Idea by (ScandiWeb)[https://scandiweb.com/].
+- Original Idea by [ScandiWeb](https://scandiweb.com/).
 
 ## 📝 License
 
