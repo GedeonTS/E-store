@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+.attr-name {
+  font-weight: 500;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  margin-top: -10px;
+}
+
+.color-box {
+  width: 30px;
+  height: 60px;
+}
+
+.color-box-inner {
+  display: flex;
+  width: 190px;
+  margin-top: -10px;
+  justify-content: space-between;
+}
+
+.color-box-inner-item {
+  width: 20px;
+  height: 20px;
+}
+
+.size-box {
+  display: flex;
+  flex-direction: column;
+  width: 190px;
+  height: 30px;
+  justify-content: space-between;
+}
+
+.size-box-inner {
+  display: flex;
+  flex-direction: row;
+  margin-top: -20px;
+  width: 150px;
+  justify-content: space-between;
+}
+
+.size-box-inner-item {
+  border: solid 1px black;
+  width: 19px;
+  height: 19px;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.size-box-inner-item:hover {
+  font-weight: 600;
+}
+
+.capacity-box {
+  display: flex;
+  flex-direction: column;
+  width: 190px;
+  height: 70px;
+}
+
+.capacity-box-inner {
+  display: flex;
+  flex-direction: row;
+  margin-top: -15px;
+  width: 8rem;
+  justify-content: space-between;
+}
+
+.capacity-box-inner-item {
+  width: 50px;
+  font-size: 13px;
+  height: 30px;
+  border: solid 1px;
+  margin-top: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.capacity-box-inner-item:hover {
+  font-weight: 600;
+}
+
+.port-box {
+  width: 200px;
+  height: 70px;
+}
+
+.port-box-inner {
+  display: flex;
+  flex-direction: row;
+  width: 8rem;
+  justify-content: space-between;
+  margin-top: -20px;
+}
+
+.port-box-inner-item {
+  width: 50px;
+  margin-top: 10px;
+  font-size: 13px;
+  border: solid 1px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.port-box-inner-item:hover {
+  font-weight: 600;
+}
+
+.touch-box {
+  width: 200px;
+  height: 70px;
+}
+
+.touch-box-inner {
+  display: flex;
+  flex-direction: row;
+  width: 8rem;
+  justify-content: space-between;
+}
+
+.touch-box-inner-item {
+  width: 50px;
+  font-size: 13px;
+  height: 30px;
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.touch-box-inner-item:hover {
+  font-weight: 600;
+}

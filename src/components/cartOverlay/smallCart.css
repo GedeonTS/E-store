@@ -1,0 +1,73 @@
+.my-bag-container {
+  background-color: #fff;
+  margin-top: 0;
+  padding-top: 10px;
+  font-family: "Raleway", sans-serif;
+  padding-left: 3%;
+  z-index: 1000;
+}
+
+.small-cart {
+  background-color: #fff;
+  margin-left: 70%;
+  width: 25%;
+}
+
+.my-bag-total {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.btn {
+  width: 47%;
+  background: none;
+  height: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  text-decoration: underline;
+}
+
+.checkout {
+  background: #5ece7b;
+  border: #5ece7b;
+  color: #fff;
+}
+
+.view-bag {
+  width: 100%;
+  background: none;
+  height: 40px;
+}
+
+.view-bag:hover {
+  text-decoration: underline;
+}
+
+.cart-elem {
+  width: 95%;
+  justify-content: space-between;
+}
+
+.adding-btn-container {
+  height: 200px;
+  justify-content: space-between;
+}
+
+.img-btn-quantity-container {
+  display: flex;
+  height: 200px;
+}
+
+.my-cart-image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.my-cart-image {
+  width: 100%;
+}
