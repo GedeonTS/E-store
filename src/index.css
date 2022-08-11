@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.items-wrapper {
+  width: 85%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-left: 10%;
+  margin-right: 5%;
+}
+
+.no-scroll-effect {
+  overflow-y: hidden;
+  background-color: red;
+}
