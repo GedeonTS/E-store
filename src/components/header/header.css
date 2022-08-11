@@ -1,0 +1,159 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #1d1f22;
+  height: 100px;
+}
+
+.logo {
+  margin-left: -50px;
+}
+
+.nav-menu {
+  margin-left: 0;
+  list-style: none;
+  display: flex;
+  width: 20vw;
+  color: #1d1f22;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+.nav-action {
+  width: 20%;
+  display: flex;
+  flex-direction: row-reverse;
+  height: 20px;
+  color: #1d1f22;
+}
+
+.initial-nav {
+  text-decoration: none;
+  padding-bottom: 1rem;
+  color: #1d1f22;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.active-nav {
+  border-bottom: solid 1px;
+  text-decoration: none;
+  padding-bottom: 1rem;
+  font-weight: 600;
+  font-size: 16px;
+  font-family: "Raleway", sans-serif;
+  color: #5ece7b;
+  transition: all ease-in 1s;
+}
+
+li {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 120%;
+}
+
+.select li {
+  width: 500px;
+}
+
+#option {
+  width: 600px;
+}
+
+#option span {
+  margin-right: 30px;
+}
+
+.overlay-wrapper {
+  background: rgba(57, 55, 72, 0.22);
+  position: fixed;
+  z-index: 999;
+  margin-top: 71px;
+}
+
+.item-number {
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  background-color: #000;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  padding: 2px;
+  left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 20px;
+}
+
+.my-bag-img {
+  width: 26px;
+  height: 26px;
+}
+
+.select {
+  align-self: center;
+  justify-self: center;
+  background-color: #fff;
+  border: none;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  width: 23px;
+  height: 15px;
+  font-size: 18px;
+  line-height: 160%;
+  font-weight: 500;
+}
+
+.select:hover {
+  align-self: center;
+  justify-self: center;
+  background-color: #fff;
+  border: none;
+}
+
+.custom-select {
+  font-family: "Raleway", sans-serif;
+  width: 40px;
+  margin-right: 50px;
+  font-weight: 500;
+  font-size: 18px;
+  border: 1px #fff;
+}
+
+.selected {
+  border: 3px solid #fff;
+  border-radius: 5px;
+  height: 27px;
+}
+
+.currency-options {
+  position: absolute;
+  width: 100px;
+  right: 0;
+  left: 81vw;
+  box-shadow: 0 4px 35px rgba(168, 172, 176, 0.19);
+}
+
+.option {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  background: #fff;
+}
+
+.option:hover {
+  background: #eee;
+}
