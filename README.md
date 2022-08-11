@@ -34,7 +34,7 @@ To get the output of our project make sure you have google Chrome, Mozila or any
 
 1. - [ ] Open the `Terminal`
 2. - [ ] Navigate to the directory where you want to add this repository
-3. - [ ] Run `git clone https://github.com/GedeonTS/E-store-project.git`
+3. - [ ] Run `git clone https://github.com/GedeonTS/E-store-by_Ushindi_Gedeon.git`
 4. - [ ] Run `npm install` to install the necessary modules
 5. - [ ] Run `npm start`
 
