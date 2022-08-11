@@ -1,6 +1,6 @@
 # E-Store
 
-This project is an online store, where the user is able to navigate, choose article with specific properties such color and size, and finaly add to their bag.
+This project is an online store, where the user is able to navigate, choose article with specific properties such color and size, and finally add to their bag.
 ### Built With
 
 - Javascript
@@ -77,7 +77,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Original Idea by [ScandiWeb](https://scandiweb.com/).
+- Original Idea by **[ScandiWeb](https://scandiweb.com/).**
 
 ## 📝 License
 
